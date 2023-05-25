@@ -4,9 +4,9 @@ class Model_Core_Adapter
 {
     public $config = [
         'host' => 'localhost',
-        'userName' => 'admin',
-        'password' => 'Admin@123',
-        'dbase' => 'newmvc-dhruv-makadiya'
+        'userName' => 'root',
+        'password' => '',
+        'dbase' => 'newmvc-kshitij-pandey'
     ];
 
     public $connect = null;
